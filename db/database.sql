@@ -1,7 +1,7 @@
 /*M!999999\- enable the sandbox mode */ 
 -- MariaDB dump 10.19  Distrib 10.11.16-MariaDB, for Win64 (AMD64)
 --
--- Host: localhost    Database: wp-literasi
+-- Host: localhost    Database: wp_literasi
 -- ------------------------------------------------------
 -- Server version	10.11.16-MariaDB
 
